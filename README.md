@@ -20,3 +20,4 @@ Once installed, open a command line and type: jupyter notebook
 
 1. [Simple Linear Regression](https://www.statstutor.ac.uk/resources/uploaded/slregression.pdf)
 2. [An introduction to simple linear regression](https://www.scribbr.com/statistics/simple-linear-regression/)
+3. [Jupyter-teaching-notebooks](https://github.com/ianmcloughlin/jupyter-teaching-notebooks/blob/master/simple-linear-regression.ipynb)
